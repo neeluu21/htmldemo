@@ -1,5 +1,5 @@
 
-name: Deploy Website
+name: Deploy Websit
 
 on:
   push:
